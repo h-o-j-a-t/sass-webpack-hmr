@@ -17,7 +17,7 @@ Open the folder using vscode and run
 $ yarn
 $ yarn start
 ```
-or if you prefer npm jsut
+or if you prefer npm just
 ```
 $ npm
 $ npm start
@@ -33,3 +33,14 @@ or
 $ npm run build
 ```
 and your final product is ready to use.
+
+### Attention
+You won't see your finall css file while you are working on your sass file.
+If you wanna see the result you must run
+```
+yarn run build
+```
+or
+```
+npm run build
+```
